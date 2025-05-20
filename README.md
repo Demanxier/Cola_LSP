@@ -1,6 +1,6 @@
 # Documentação da Linguagem LSP - Linguagem Sênior de Programação
 
-Sênior Sistemas
+Senior Sistemas
 
 - Documentação da Linguagem LSP - <[https://documentacao.senior.com.br/tecnologia](https://documentacao.senior.com.br/tecnologia/5.10.4/)>
 
